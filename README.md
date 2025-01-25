@@ -11,8 +11,10 @@ This project involves training a machine learning model using the Random Forest 
 - Clone the repository
 - Install the required Python libraries: `pip install -r requirements.txt`.
 - Create a `.env` file in the project root directory and add the following:
+
 MYSQL_HOST=your_host
-MYSQL_USER=your_user
-MYSQL_PASSWORD=your_password
-MYSQL_DATABASE=your_database
+<br>MYSQL_USER=your_user
+<br>MYSQL_PASSWORD=your_password
+<br>MYSQL_DATABASE=your_database
+
 - Run the Jupyter Notebook
